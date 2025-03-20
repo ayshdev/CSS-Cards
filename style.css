@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    text-shadow: 5px 5px 3px rgb(131, 131, 131);
+
+}
+
+h4{
+    text-shadow: 2px 2px 4px #353535;
+}
+
+.cards {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 250px;
+    height: 300px;
+    display: inline-block; 
+    text-align: center;
+    margin: 10px;
+    /* vertical-align: top; */
+    box-shadow: 5px 5px 3px rgb(99, 98, 98);
+
+}
+
+
+
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+}
+
+
+img{
+    width: 20%;
+    padding-top: 40px;
+}
+
+#twt{
+    padding-top: 50px;
+}
+
+button{
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 45px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 5px 5px 3px rgb(99, 98, 98);
+}
+
+
